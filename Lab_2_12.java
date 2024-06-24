@@ -1,5 +1,5 @@
 
-public class Lab_12{
+public class Lab_2_12{
 	public static void main(String[] args) {
 		int i,dig,n,num,j;
 		for(i=1;i<=1000;i++){
