@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Lab_11{
+public class Lab_2_11{
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		System.out.print("Enter number of terms : ");
