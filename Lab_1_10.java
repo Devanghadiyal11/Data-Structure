@@ -1,6 +1,6 @@
 
 import java.util.Scanner;
-public class Lab_2_10{
+public class Lab_1_10{
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		System.out.print("Enter number of days : ");
