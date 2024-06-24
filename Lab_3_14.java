@@ -1,6 +1,6 @@
 
 import java.util.Scanner;
-public class Lab_14_3{
+public class Lab_3_14{
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		System.out.print("Enter lower number : ");
