@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Lab_A1{
+public class Lab_1{
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		System.out.print("Enter a radius : ");
